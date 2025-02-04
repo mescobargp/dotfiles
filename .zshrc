@@ -1,0 +1,15 @@
+
+# Git Aliases
+alias g='git'
+alias ga='git add'
+alias gs='git status'
+alias gsl='git stash list'
+alias gsd='git stash drop'
+alias gsp='git stash pop'
+alias gc='git commit'
+alias gco='git checkout'
+alias gb='git branch'
+alias gl='git log'
+alias gpl='git pull'
+alias gph='git push'
+alias gcl='git clone'
